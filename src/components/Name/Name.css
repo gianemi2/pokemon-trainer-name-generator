@@ -1,0 +1,32 @@
+.NameWrapper {
+  max-width: 600px;
+  height: 250px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 35px auto;
+  position: relative;
+}
+
+.typeBackground {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 8em;
+  text-transform: uppercase;
+  color: white;
+  opacity: .1;
+  z-index: 0;
+}
+
+.name {
+  z-index: 1;
+  font-size: 4em;
+}
+/*# sourceMappingURL=Name.css.map */

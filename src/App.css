@@ -1,38 +1,84 @@
-.App {
-  text-align: center;
+.box-normale {
+  background: radial-gradient(circle, #bbbb97, #8f8f5d);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.box-lotta {
+  background: radial-gradient(circle, #d94a44, #98241f);
+  background-color: #C22E28;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.box-volante {
+  background: radial-gradient(circle, #cbbcf2, #8968e0);
+  background-color: #AA92E9;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.box-veleno {
+  background: radial-gradient(circle, #b75eb6, #793678);
+  background-color: #9C469B;
 }
 
-.App-link {
-  color: #61dafb;
+.box-terra {
+  background: radial-gradient(circle, #e9d397, #d7af43);
+  background-color: #E0C16D;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.box-roccia {
+  background: radial-gradient(circle, #cbb657, #8f7e2d);
+  background-color: #B6A039;
 }
+
+.box-coleottero {
+  background: radial-gradient(circle, #c9db31, #818e18);
+  background-color: #A9B920;
+}
+
+.box-spettro {
+  background: radial-gradient(circle, #8875ac, #564675);
+  background-color: #6E5995;
+}
+
+.box-fuoco {
+  background: radial-gradient(circle, #f59c5e, #df630e);
+  background-color: #F27E2E;
+}
+
+.box-acqua {
+  background: radial-gradient(circle, #95b1f1, #3b6fe5);
+  background-color: #6890EB;
+}
+
+.box-erba {
+  background: radial-gradient(circle, #9ad37c, #63ae3b);
+  background-color: #7DC656;
+}
+
+.box-elettro {
+  background: radial-gradient(circle, #f8da5f, #e7bc0a);
+  background-color: #F6CF2E;
+}
+
+.box-psico {
+  background: radial-gradient(circle, #f989a8, #f32960);
+  background-color: #F65984;
+}
+
+.box-ghiaccio {
+  background: radial-gradient(circle, #bbe7e4, #71cbc6);
+  background-color: #96D9D5;
+}
+
+.box-drago {
+  background: radial-gradient(circle, #8e66ee, #5018d6);
+  background-color: #6C38E9;
+}
+
+.box-acciaio {
+  background: radial-gradient(circle, #f7f7f9, #b9b9d1);
+  background-color: #D8D8E5;
+}
+
+.box-buio {
+  background: radial-gradient(circle, #85654f, #453529);
+  background-color: #654D3C;
+}
+/*# sourceMappingURL=App.css.map */
